@@ -29,3 +29,17 @@ string [] GetArray(string[] array)
 };
 
 string[] resultArray = GetArray(array);
+
+
+void PrintArray(string[] resultArray)
+{
+    Console.Write("[");
+    for (int i = 0;i<resultArray.Length;i++)
+    {
+    Console.Write($"{resultArray[i]}, ");
+    }
+    Console.Write("]");
+}
+
+PrintArray(resultArray);
+Console.WriteLine();
