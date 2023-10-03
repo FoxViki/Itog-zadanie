@@ -1,0 +1,15 @@
+D:\гигбрейнс\дз\Itog zadanie\reshenie\bin\Debug\net6.0\reshenie.exe
+D:\гигбрейнс\дз\Itog zadanie\reshenie\bin\Debug\net6.0\reshenie.deps.json
+D:\гигбрейнс\дз\Itog zadanie\reshenie\bin\Debug\net6.0\reshenie.runtimeconfig.json
+D:\гигбрейнс\дз\Itog zadanie\reshenie\bin\Debug\net6.0\reshenie.dll
+D:\гигбрейнс\дз\Itog zadanie\reshenie\bin\Debug\net6.0\reshenie.pdb
+D:\гигбрейнс\дз\Itog zadanie\reshenie\obj\Debug\net6.0\reshenie.csproj.AssemblyReference.cache
+D:\гигбрейнс\дз\Itog zadanie\reshenie\obj\Debug\net6.0\reshenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\гигбрейнс\дз\Itog zadanie\reshenie\obj\Debug\net6.0\reshenie.AssemblyInfoInputs.cache
+D:\гигбрейнс\дз\Itog zadanie\reshenie\obj\Debug\net6.0\reshenie.AssemblyInfo.cs
+D:\гигбрейнс\дз\Itog zadanie\reshenie\obj\Debug\net6.0\reshenie.csproj.CoreCompileInputs.cache
+D:\гигбрейнс\дз\Itog zadanie\reshenie\obj\Debug\net6.0\reshenie.dll
+D:\гигбрейнс\дз\Itog zadanie\reshenie\obj\Debug\net6.0\refint\reshenie.dll
+D:\гигбрейнс\дз\Itog zadanie\reshenie\obj\Debug\net6.0\reshenie.pdb
+D:\гигбрейнс\дз\Itog zadanie\reshenie\obj\Debug\net6.0\reshenie.genruntimeconfig.cache
+D:\гигбрейнс\дз\Itog zadanie\reshenie\obj\Debug\net6.0\ref\reshenie.dll
